@@ -5,6 +5,7 @@ Website đặt vé rạp chiếu phim hiện đại được xây dựng với N
 
 ## ✨ Tính năng
 
+
 - 🎥 **Trang chủ với Hero Banner**: Hiển thị phim đang chiếu nổi bật
 - 🎭 **Lọc phim theo thể loại**: Action, Drama, Sci-Fi, Horror, Comedy
 - 📅 **Lịch chiếu nhanh**: Xem các suất chiếu sắp tới
